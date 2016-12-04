@@ -1,0 +1,25 @@
+{
+  "name": "deepfreeze",
+  "version": "1.0.0",
+  "description": "Javascript API to freeze in deep way your javascript Objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-Amechghal/deepfreeze.git"
+  },
+  "keywords": [
+    "freeze",
+    "freezing",
+    "deep",
+    "object"
+  ],
+  "author": "Ali Amechghal <ali.amechghal@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ali-Amechghal/deepfreeze/issues"
+  },
+  "homepage": "https://github.com/Ali-Amechghal/deepfreeze#readme"
+}
